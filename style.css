@@ -125,9 +125,9 @@
     border-right: 100px solid transparent;
     border-bottom: 50px solid black;
     position: fixed;
-    left: 80%;
+    left: 1220px;
     z-index: 2;
-    top: 48%;
+    top: 340px;
 }
 
 .body_4 {
@@ -137,9 +137,9 @@
     margin-left: 25px;
     align-items: flex-end;
     position: fixed;
-    left: 80%;
+    left: 1220px;
     bottom: 185px;
-    z-index: 1
+    z-index: 1;
 }
 
 .door_4 {
@@ -259,4 +259,11 @@
     height: 100%;
     width: 400px;
     max-width: 400px;
+}
+
+.empty {
+    max-width: 300px;
+    max-height: 300px;
+    width: 300px;
+    height: 300px;
 }
