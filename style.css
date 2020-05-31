@@ -125,9 +125,9 @@
     border-right: 100px solid transparent;
     border-bottom: 50px solid black;
     position: fixed;
-    left: 1220px;
+    left: 80%;
     z-index: 2;
-    top: 340px;
+    top: 48%;
 }
 
 .body_4 {
@@ -137,8 +137,8 @@
     margin-left: 25px;
     align-items: flex-end;
     position: fixed;
-    left: 1220px;
-    bottom: 185px;
+    left: 80%;
+    bottom: 25%;
     z-index: 1;
 }
 
@@ -146,8 +146,8 @@
     width: 20px;
     height: 40px;
     background-color: black;
-    right: 230px;
-    bottom: 185px;
+    right: 15%;
+    bottom: 25%;
     position: fixed;
     z-index: 3;
 }
@@ -156,8 +156,8 @@
     width: 40px;
     height: 40px;
     background-color: black;
-    right: 150px;
-    bottom: 260px;
+    right: 10%;
+    bottom: 35%;
     position: fixed;
     z-index: 4;
 }
